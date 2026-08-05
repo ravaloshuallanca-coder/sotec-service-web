@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { color: #07111f; background: #fff; font-family: Arial, Helvetica, sans-serif; }
+.grid-glow { background-image: radial-gradient(circle at 70% 22%, rgba(243,107,33,.24), transparent 24rem), linear-gradient(125deg, #07111f 10%, #102a46 100%); }
+.eyebrow { @apply text-xs font-bold uppercase tracking-[.18em] text-brand; }
