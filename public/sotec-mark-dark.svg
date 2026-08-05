@@ -1,0 +1,8 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <defs>
+    <linearGradient id="sotecWarm" x1="35" y1="29" x2="121" y2="72" gradientUnits="userSpaceOnUse"><stop stop-color="#FFD21A"/><stop offset="1" stop-color="#FF6A00"/></linearGradient>
+    <linearGradient id="sotecLight" x1="116" y1="89" x2="43" y2="128" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#DCE2EC"/></linearGradient>
+  </defs>
+  <path d="M118 24C89 4 48 13 28 39C14 58 14 84 28 103" stroke="url(#sotecWarm)" stroke-width="25" stroke-linecap="round"/>
+  <path d="M44 126C67 143 101 136 118 111C133 89 130 62 113 44" stroke="url(#sotecLight)" stroke-width="25" stroke-linecap="round"/>
+</svg>
