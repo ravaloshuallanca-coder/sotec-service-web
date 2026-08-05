@@ -4,8 +4,8 @@ const config: Config = {
   content: ["./app/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      colors: { ink: "#07111f", brand: "#f36b21", mist: "#eef3f8" },
-      boxShadow: { card: "0 20px 60px rgba(7,17,31,.10)" },
+      colors: { ink: "#101016", brand: "#ff6a00", solar: "#ffc400", mist: "#f7f5f2" },
+      boxShadow: { card: "0 20px 60px rgba(16,16,22,.12)" },
     },
   },
   plugins: [],

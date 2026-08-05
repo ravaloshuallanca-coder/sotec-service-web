@@ -4,6 +4,6 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { color: #07111f; background: #fff; font-family: Arial, Helvetica, sans-serif; }
-.grid-glow { background-image: radial-gradient(circle at 70% 22%, rgba(243,107,33,.24), transparent 24rem), linear-gradient(125deg, #07111f 10%, #102a46 100%); }
+body { color: #101016; background: #fff; font-family: Arial, Helvetica, sans-serif; }
+.grid-glow { background-image: radial-gradient(circle at 72% 18%, rgba(255,196,0,.20), transparent 19rem), radial-gradient(circle at 62% 60%, rgba(255,106,0,.24), transparent 28rem), linear-gradient(125deg, #101016 10%, #20212a 100%); }
 .eyebrow { @apply text-xs font-bold uppercase tracking-[.18em] text-brand; }
